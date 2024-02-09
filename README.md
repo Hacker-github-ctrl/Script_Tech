@@ -20,5 +20,5 @@ cd Script_Tech
 ```
 3
 ```
-python3 Script_Tech.py
+python3 def Script.py
 ```
